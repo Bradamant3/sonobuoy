@@ -187,7 +187,7 @@ metadata:
     sonobuoy-driver: Job
     sonobuoy-plugin: heptio-e2e
     sonobuoy-result-type: heptio-e2e
-  labels: {{.SonobuoyLabels}
+  labels: {{.SonobuoyLabels}}
   name: sonobuoy-heptio-e2e-job-{{.SessionID}}
   namespace: '{{. Namespace}}'
 spec:
