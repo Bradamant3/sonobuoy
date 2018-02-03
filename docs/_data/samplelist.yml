@@ -1,0 +1,19 @@
+toc:
+  - title: Setting up
+    subfolderitems:
+      - page: Configuration
+        url: /sonobuoy/configuration
+      - page: Generated YAML
+        url: /sonobuoy/examples/quickstart
+      - page: Snapshot layout
+        url: /sonobuoy/snapshot
+  - title: Use cases
+    subfolderitems:
+      - page: Conformance testing
+        url: /sonobuoy/conformance-testing
+      - page: Plugins
+        url: sonobuoy/plugins
+  - title: Next steps
+    subfolderitems:
+      - page: Make your own manifests
+        url: sonobuoy/examples/README
